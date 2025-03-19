@@ -1,1 +1,1 @@
-It is a disease classification model, we first prepare a dataset for a binary classification problem. The goal is to train a model to predict whether a person has symptoms (1) or not (0) based on their age. The dataset is synthetic and intentionally imbalanced to simulate a real-world scenario.
+here are few of my projects that i have worked on and am authorised to share.
